@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1689162268 source:c:\users\user\desktop\hw1\main.cpp
+	<iostream>
+	"sorting.h"
+
+1689093260 c:\users\user\desktop\hw1\sorting.h
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+
+1689227609 source:c:\users\user\desktop\hw1\sorting.cpp
+	<iostream>
+	"sorting.h"
+	<stdio.h>
+	<chrono>
+	<time.h>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+

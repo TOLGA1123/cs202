@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1691159631 source:c:\users\user\desktop\hw4\avltree.cpp
+	"AVLTree.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<math.h>
+
+1691252963 c:\users\user\desktop\hw4\avltree.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<fstream>
+	<math.h>
+
+1691154764 source:c:\users\user\desktop\hw4\main.cpp
+	<iostream>
+	<stdlib.h>
+	"AVLTree.h"
+	<fstream>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1690489371 source:c:\users\user\desktop\hw3\heap.cpp
+	"heap.h"
+	<iostream>
+	<string>
+
+1690535209 c:\users\user\desktop\hw3\heap.h
+	<iostream>
+	<string>
+	<limits.h>
+
+1690558660 source:c:\users\user\desktop\hw3\heapsort.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	"heap.h"
+	<math.h>
+
+1690489371 source:c:\users\user\desktop\cs202\hw3\heap.cpp
+	"heap.h"
+	<iostream>
+	<string>
+
+1690535209 c:\users\user\desktop\cs202\hw3\heap.h
+	<iostream>
+	<string>
+	<limits.h>
+
+1690558660 source:c:\users\user\desktop\cs202\hw3\heapsort.cpp
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	"heap.h"
+	<math.h>
+

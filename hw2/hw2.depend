@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1689702598 source:c:\users\user\desktop\hw2\main.cpp
+	<iostream>
+	<string>
+	"NgramTree.h"
+
+1690213282 c:\users\user\desktop\hw2\ngramtree.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<fstream>
+
+1690280278 source:c:\users\user\desktop\hw2\ngramtree.cpp
+	"NgramTree.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1690227627 source:c:\users\user\desktop\hw2\hw2.cpp
+	<iostream>
+	<stdlib.h>
+	"NgramTree.h"
+
